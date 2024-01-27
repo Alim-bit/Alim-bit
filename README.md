@@ -14,7 +14,7 @@
 👋 I'm Alim Dhuka, a driven and enthusiastic computer science student with a passion for mathematics and problem-solving. Currently pursuing a Bachelor's of Honours Mathematics (Co-op) at the University of Waterloo, Canada.
 🔍 Seeking a challenging internship opportunity in a dynamic environment where I can apply my strong critical thinking, problem-solving, and leadership skills while furthering my knowledge in the fields of math and computer science.
 
-### :Education: EDUCATION :
+### :books: EDUCATION :
 University of Waterloo, Canada: Expected Graduation - Year 2028
 Certifications: Earned IBM Digital Badges in Emerging Tech, Cybersecurity Fundamentals, AI Foundations, Hybrid Cloud, AI Ethics, and Open-Source Technologies. Achieved a silver badge on HackerRank for proficiency in Python programming.
 
