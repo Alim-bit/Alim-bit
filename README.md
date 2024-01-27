@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVsb2k0eWl2aWp0ZWswbHB1OHczM3gwc2gxaHNkY2tkb3l0M3U0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YYbecrFqO7UUE/giphy.gif" width="100"/>
+</div>
 👋 Hi there! I'm Alim Dhuka, a driven and enthusiastic computer science student with a passion for mathematics and problem-solving. Currently pursuing a Bachelor's of Honours Mathematics (Co-op) at the University of Waterloo, Canada.
 🔍 Seeking a challenging internship opportunity in a dynamic environment where I can apply my strong critical thinking, problem-solving, and leadership skills while furthering my knowledge in the fields of math and computer science.
 
