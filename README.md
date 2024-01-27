@@ -10,7 +10,7 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 👋 I'm Alim Dhuka, a driven and enthusiastic computer science student with a passion for mathematics and problem-solving. Currently pursuing a Bachelor's of Honours Mathematics (Co-op) at the University of Waterloo, Canada.
 🔍 Seeking a challenging internship opportunity in a dynamic environment where I can apply my strong critical thinking, problem-solving, and leadership skills while furthering my knowledge in the fields of math and computer science.
 
