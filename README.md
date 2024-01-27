@@ -5,9 +5,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxydjB3cW12MTV2aHBvMWhkdmc5b25mZ3VwYmppdmhoZzk5b3IxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ### :man_technologist: About Me :
 👋 I'm Alim Dhuka, a driven and enthusiastic computer science student with a passion for mathematics and problem-solving. Currently pursuing a Bachelor's of Honours Mathematics (Co-op) at the University of Waterloo, Canada.
