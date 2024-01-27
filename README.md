@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" width="600" height="300"/>
 </div>
----
 
 ### :man_technologist: About Me :
 👋 I'm Alim Dhuka, a driven and enthusiastic computer science student with a passion for mathematics and problem-solving. Currently pursuing a Bachelor's of Honours Mathematics (Co-op) at the University of Waterloo, Canada.
