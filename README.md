@@ -48,7 +48,7 @@ Engineered a shopping application in Java with BlueJ, allowing users to select p
 
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ### :e-mail: Email: alim1.dhuka@gmail.com
-### :toolbox: 
 <div>
+### :toolbox: 
 <a src=https://www.linkedin.com/in/alim-dhuka-664b47214/ /a>
 </div>
