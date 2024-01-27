@@ -6,7 +6,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxydjB3cW12MTV2aHBvMWhkdmc5b25mZ3VwYmppdmhoZzk5b3IxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
