@@ -11,7 +11,8 @@
 🔍 Seeking a challenging internship opportunity in a dynamic environment where I can apply my strong critical thinking, problem-solving, and leadership skills while furthering my knowledge in the fields of math and computer science.
 
 ### :books: EDUCATION :
-University of Waterloo, Canada: Expected Graduation - Year 2028
+University of Waterloo,
+Bachelors of Honours Mathematics (Co-op) Expected Graduation - Year 2028
 
 ### :1st_place_medal: Certifications :
 Earned IBM Digital Badges in Emerging Tech, Cybersecurity Fundamentals, AI Foundations, Hybrid Cloud, AI Ethics, and Open-Source Technologies.
