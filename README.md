@@ -12,7 +12,6 @@
 
 ### :books: EDUCATION :
 University of Waterloo, Canada: Expected Graduation - Year 2028
-Certifications: Earned IBM Digital Badges in Emerging Tech, Cybersecurity Fundamentals, AI Foundations, Hybrid Cloud, AI Ethics, and Open-Source Technologies. Achieved a silver badge on HackerRank for proficiency in Python programming.
 
 ### :1st_place_medal: Certifications :
 Earned IBM Digital Badges in Emerging Tech, Cybersecurity Fundamentals, AI Foundations, Hybrid Cloud, AI Ethics, and Open-Source Technologies.
