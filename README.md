@@ -14,37 +14,6 @@
 University of Waterloo,
 Bachelors of Honours Mathematics (Co-op) Expected Graduation - Year 2028
 
-### :1st_place_medal: Certifications :
-Earned IBM Digital Badges in Emerging Tech, Cybersecurity Fundamentals, AI Foundations, Hybrid Cloud, AI Ethics, and Open-Source Technologies.
-Achieved a silver badge on HackerRank for proficiency in Python programming.
-
-### :star2: Internship Experience :
-Embedded Firmware Engineer - 
-Waterloo Aerial Robotics Group (WARG) :
-• Developed and configured firmware for STM32 microcontrollers using STM32 Cube IDE to control hardware
-components, including ADC and PWM peripherals, as part of a Motor Tester implementation project.
-• Integrated SPI communication protocols between microcontrollers and external ADC chips, enabling real-time
-data conversion and processing for motor control applications.
-• Collaborated in an embedded systems project, configuring microcontroller pins based on schematic designs,
-debugging compiler errors, and submitting code for review via GitHub, ensuring high-quality firmware
-development.
-
-High Schools Moms - Student Intern: Attended Trinity College Dublin lectures on advanced physics and chemistry topics, achieved a top 200 ranking in a 15-day STEM internship in India, and conducted research on scientific contributions to COVID-19.
-Mindler - Student Intern: Conducted in-depth research on current affairs, participated in self-development master classes, and integrated current affairs and self-development for a well-rounded understanding.
-
-### :hammer_and_wrench: Relevant Projects :
-Chess Game Implementation | C++, XQuartz June 2024 - July 2024
-• Developed a full-featured chess game in C++ with XQuartz, incorporating all standard functionalities.
-• Utilized concepts from CS246, including STL, Observer pattern, MVC design, and OOP principles.
-• Implemented an AI player with four levels of difficulty using Reinforcement Learning.
-
-
-E-commerce Platform | Angular 15+, Node.js, Express.js May 2024 - Present
-• Developed an e-commerce platform with Angular 15+ for a dynamic and responsive UI.
-• Implemented RESTful APIs using Node.js and Express.js for efficient backend communication.
-• Integrated Stripe for secure payment processing, ensuring a smooth checkout experience.
-
-
 
 ### :toolbox: Technical Skills :
 <div>
